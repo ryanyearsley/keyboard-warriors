@@ -1,0 +1,56 @@
+please write me a cover letter for the following job opening: 
+
+Persistent Technology is seeking a Virtual Reality (VR) Developer to join our team to help build cutting-edge visualization tools and simulations.
+
+Job responsibilities:
+
+Working in a small project-oriented development team to create custom AR and VR experiences for enterprise use cases (engineering, biomedical, marketing, training, etc.) in Unity and/or Unreal Engine
+Collaborating with other developers and clients to evaluate project needs and come up with clever solutions
+Setting up virtual environments for a wide range of AR or VR scenarios, depending on the project type
+Implementing user interfaces based on mockups and storyboards
+Crafting intuitive user interactions for both novice and experienced users
+Writing well-documented, reusable code in C++, C#, or other languages as necessary
+Diagnosing, documenting, and fixing bugs reported by testers and users
+Using industry-standard source control and issue tracking systems (Git, Jira, Trello, etc.)
+Participating in project planning and team code reviews
+Keeping up with the latest trends and advancements in augmented and virtual reality
+Other Requirements:
+
+Applicants for this position must have a good working knowledge of Unity and/or Unreal Engine. Additionally, good candidates should have:
+
+Familiarity with standard AR and VR hardware, software, best practices, and design patterns
+Ability to understand and apply 2D and 3D mathematical concepts (linear algebra, matrix multiplication, quaternions, etc.)
+Proficiency in Object Oriented Programming and coding best practices, especially in C# and/or C++
+Knowledge of game engine concepts such as lighting, shaders, materials, meshes, scripting, etc.
+History of working collaboratively on multi-person teams with source control and (ideally) issue tracking
+Creativity in finding solutions to abstract design problems, particularly with respect to translating real-world concepts and interactions into VR
+Capacity to prioritize tasks through self-directed time management and organization
+UI/UX ability and experience a plus
+Nice to have: general familiarity with industry-standard 3D graphics software such as 3DS Max, Maya, Substance, etc.
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.
+Education minimum requirement: Computer science, computer engineering, information technology, or game design degree from a 4-year school or 3+ years game development experience. We will also consider applicants with the equivalent combination of education, technical expertise, training, or work experience.
+
+If you are passionate about technology and interested in becoming part of our team, please contact us using the online application.
+
+
+Dear Hiring Manager,
+
+I am writing to apply for the Virtual Reality (VR) Developer position at Persistent Technology. With my strong technical skills in Unity and Unreal Engine, coupled with my passion for creating cutting-edge visualization tools and simulations, I am confident in my ability to contribute to your team's success and help shape the future of AR and VR experiences.
+
+Throughout my [number of years] years of experience in the field of game development and virtual reality, I have acquired a solid understanding of creating custom AR and VR experiences for enterprise use cases. I have successfully delivered projects in Unity and Unreal Engine, collaborating closely with clients and fellow developers to evaluate project requirements and devise innovative solutions. My ability to set up virtual environments for various AR and VR scenarios, implement intuitive user interfaces, and write well-documented, reusable code in languages such as C# and C++ has allowed me to deliver high-quality experiences.
+
+I possess the following qualifications and skills that align with the requirements outlined in the job description:
+
+Strong familiarity with Unity and/or Unreal Engine, along with knowledge of standard AR and VR hardware, software, best practices, and design patterns.
+Proficiency in applying 2D and 3D mathematical concepts, such as linear algebra, matrix multiplication, and quaternions, to develop immersive experiences.
+Extensive experience in Object-Oriented Programming and coding best practices, with expertise in C# and/or C++.
+Solid understanding of game engine concepts, including lighting, shaders, materials, meshes, and scripting.
+Proven ability to work collaboratively in multi-person teams, utilizing source control and issue tracking systems effectively.
+Creative problem-solving skills to translate real-world concepts and interactions into immersive VR experiences.
+Strong time management and organizational abilities to prioritize tasks effectively and meet project deadlines.
+Additional experience in UI/UX design and familiarity with industry-standard 3D graphics software would be advantageous.
+Persistent Technology has captured my attention as a company that values innovation and is dedicated to creating cutting-edge visualization tools and simulations. I am excited about the opportunity to contribute to your team's success and be part of a company that pushes the boundaries of AR and VR technology.
+
+I am confident that my technical expertise, creativity, and ability to work collaboratively make me an ideal candidate for this role. I am eager to bring my skills and passion for technology to Persistent Technology, and I am confident that together, we can deliver exceptional AR and VR experiences.
+
+Thank you for considering my application. I have attached my resume for your review, and I look forward to the possibility of discussing how my qualifications align with your requirements in more detail. Please feel free to contact me at your convenience.
