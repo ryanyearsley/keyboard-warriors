@@ -8,6 +8,17 @@ namespace Yearsley.Typing.Managers
 {
 	public class TypingGameManager : MonoBehaviour
 	{
+
+		#region Singleton
+
+		public static TypingGameManager instance { get; private set; }
+
+		private void InitializeSingleton()
+		{
+			instance = this;
+		}
+
+		#endregion
 		[SerializeField]
 		private TMP_Text wordOutput = null;
 		[SerializeField]
@@ -16,7 +27,10 @@ namespace Yearsley.Typing.Managers
 		private string remainingWord = string.Empty;
 		private string currentWord = string.Empty;
 
-		// Start is called before the first frame update
+		private void Awake()
+		{
+			InitializeSingleton();
+		}
 		void Start()
 		{
 			SetCurrentWord();
