@@ -11,8 +11,6 @@ namespace Yearsley.Typing.Managers
 		[SerializeField]
 		private TMP_Text wordOutput = null;
 		[SerializeField]
-		private TMP_Text inputDisplay;
-		[SerializeField]
 		private WordBank wordBank;
 
 		private string remainingWord = string.Empty;
@@ -49,13 +47,12 @@ namespace Yearsley.Typing.Managers
 				string keysPressed = Input.inputString;
 				if (keysPressed.Length == 1)
 					EnterLetter(keysPressed);
-				inputDisplay.text += keysPressed;
 			}
 		}
 
 		private void EnterLetter(string typedLetter)
 		{
-			if (isCorrectLetter(typedLetter))
+			if (IsCorrectLetter(typedLetter))
 			{
 				RemoveLetter();
 
@@ -64,7 +61,7 @@ namespace Yearsley.Typing.Managers
 			}
 		}
 
-		private bool isCorrectLetter(string letter)
+		private bool IsCorrectLetter(string letter)
 		{
 			return remainingWord.IndexOf(letter) == 0;
 		}
